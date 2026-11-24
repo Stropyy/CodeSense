@@ -177,4 +177,3 @@ class ExampleRule(Rule):
             pass
         return diagnostics
 ```
-# CodeSense
